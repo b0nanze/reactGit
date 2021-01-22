@@ -78,6 +78,15 @@ ul li {
 .CP {
     margin-top: 6px;
 }
-
+.mode {
+    padding-top: 20px;
+}
+.mode button {
+    border:none;
+    font-size: 20px;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
 
 
